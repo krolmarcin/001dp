@@ -12,3 +12,6 @@ second_function()
 
 if second_function() == print('sec_function'):
     print('nothing')
+
+print_hw()
+
