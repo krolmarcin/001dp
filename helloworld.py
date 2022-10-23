@@ -8,6 +8,9 @@ def second_function():
 def t450():
     print('I am on lenovo t450 now')
 
+def newbr():
+    print('New branch')
+
 print_hw()
 second_function()
 
